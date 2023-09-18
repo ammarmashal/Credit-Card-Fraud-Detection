@@ -39,3 +39,9 @@ confusion_matrix,
 GridSearchCV
 
 RandomForestClassifier
+
+
+#kaggle link:
+https://www.kaggle.com/code/ammarmashal/credit-card-fraud-detection
+
+wish you an attractive watch 
